@@ -1,0 +1,14 @@
+---
+  test1:
+    goingfrom: BOM
+    goingto: JFK
+    date: 23/12/2023
+    stop: 1 Stop
+
+  test2:
+    goingfrom: NEW Delhi
+    goingto: MEL
+    date: 25/12/2023
+    stops: 2 Stops
+
+...
